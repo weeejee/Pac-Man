@@ -1,2 +1,9 @@
-# Team-project
-2021 school project
+# Python Object Oriented Programming 
+## 2019 school project
+
+
+### PacMan random walk 
+Class Tiles, Gem, Pacman 
+ 
+
+
